@@ -1,4 +1,5 @@
 # Stanford Vision Systems Reading Group
+# Spring 2018
 
 **Date presented** | **Paper Title** | **Year published** | **Paper link**
 -- | -- | -- | -- 
